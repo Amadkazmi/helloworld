@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello this is first github!");
 
         string name, surname;
         int age;
